@@ -9,3 +9,4 @@ Ao longo da narrativa, o autor Diego Souza aborda temas como a perda de controle
 Em síntese, "A Era Artificial: O tempo sombrio das máquinas" oferece uma reflexão profunda sobre o papel da tecnologia na sociedade contemporânea e os dilemas éticos que surgem com sua evolução descontrolada.
 </div>
 
+![capa-livro](https://github.com/jcamposmelo/A-Era-Artificial-O-tempo-sombrio-das-m-quinas/assets/101723959/1ee2fd50-cb33-4dc6-842f-da2c1dd91fe0)
